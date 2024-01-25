@@ -1,5 +1,3 @@
-import "./style.css";
-
 import Dom from "./dom";
 
 const dom = Dom();
