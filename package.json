@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Natiman1/odin-todo-list#readme",
   "devDependencies": {
+    "css-loader": "^6.9.1",
+    "style-loader": "^3.3.4",
     "webpack": "^5.90.0",
     "webpack-cli": "^5.1.4"
   },
